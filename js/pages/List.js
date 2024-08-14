@@ -99,6 +99,9 @@ export default {
                         </ol>
                     </template>
                     <h3>Submission Requirements</h3>
+                     <p>
+                        You must have an FPS counter and the ingame timer shown during the completion
+                    </p>
                     <p>
                         Achieved the record without using hacks
                     </p>
